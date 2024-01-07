@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : https://boswin138.id.zra.com/sitemap.xml
+Sitemap : http://boswin138.id.zra.com/sitemap.xml
