@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://mposlot77.finalfit.org/sitemap.xml
+Sitemap : https://boswin138.id.zra.com/sitemap.xml
